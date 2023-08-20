@@ -1,4 +1,4 @@
-# Capstone_AIML_Group2
+Capstone Project in AIML by IIIT, Hyderabad
 
 
 This is a capstone project titled Generative AI carried out as part of the advanced certification in AIML program organized by talentsprint in association with International Institute of Information technology, Hyderabad. This program consists of two tasks. 1. Email Subject line generation and 2. Question Answer generation.
